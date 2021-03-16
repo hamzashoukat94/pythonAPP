@@ -1,1 +1,1 @@
-# pythonAPP
+It is demo package for testing purpose
